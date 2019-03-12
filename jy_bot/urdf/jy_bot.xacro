@@ -190,7 +190,7 @@
     <visual name="hokuyo_visual">
       <origin xyz="0 0 0" rpy="0 0 0"/>
       <geometry>
-        <mesh filename="package://udacity_bot/meshes/hokuyo.dae"/>
+        <mesh filename="package://jy_bot/meshes/hokuyo.dae"/>
       </geometry>
     </visual>
 
